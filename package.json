@@ -1,0 +1,22 @@
+{
+  "name": "easynvest-api",
+  "version": "0.0.1",
+  "description": "Biblioteca para acessar os seus dados da corretora de valores Easynvest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdaniiel07/easynvest-api.git"
+  },
+  "author": "Carlos Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdaniiel07/easynvest-api/issues"
+  },
+  "homepage": "https://github.com/carlosdaniiel07/easynvest-api#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
