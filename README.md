@@ -1,4 +1,5 @@
-# easynvest-api
+
+# [DEPRECATED] easynvest-api
 
 [![npm version](https://badge.fury.io/js/easynvest-api.svg)](https://badge.fury.io/js/easynvest-api)
 
